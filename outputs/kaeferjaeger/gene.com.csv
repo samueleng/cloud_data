@@ -68,5 +68,5 @@ IP Address,Common Name
 35.244.215.84:443,sitealliance.gene.com
 104.154.189.153:443,gcast.gene.com|www.gcast.gene.com
 104.154.251.73:443,mx-uat.gene.com
-104.197.126.171:443,sitealliance.gene.com|www.sitealliance.gene.com20.186.38.152:443,securereader.gene.com|www.securereader.gene.com
-52.251.36.236:443,egress.gene.com|www.egress.gene.com
+104.197.126.171:443,sitealliance.gene.com|www.sitealliance.gene.com20.186.38.152:443,securereader.gene.com|egress.gene.com|www.egress.gene.com|www.securereader.gene.com
+52.251.36.236:443,securereader.gene.com|egress.gene.com|www.egress.gene.com|www.securereader.gene.com
