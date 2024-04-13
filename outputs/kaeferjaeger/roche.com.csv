@@ -313,10 +313,12 @@ IP Address,Common Name
 35.242.215.126:443,iap-cms-sb.roche.com
 35.242.244.103:443,*.code.roche.com
 35.244.251.115:443,assets.code.roche.com
-35.246.174.236:443,*.pages.roche.com|pages.roche.com13.95.198.195:443,eliona.roche.com
+35.246.174.236:443,*.pages.roche.com|pages.roche.com4.180.162.164:443,*.sbx-rochechat.roche.com
+13.95.198.195:443,eliona.roche.com
 20.31.46.59:443,cmgclientdevelop.emea.roche.com
 20.52.17.30:443,direct.roche.com
 20.74.65.152:443,hub-dev.diafr.roche.com|transport-dev.diafr.roche.com|monitoring-dev.diafr.roche.com|automaticq-dev.diafr.roche.com|web2-dev.diafr.roche.com|rudder-dev.diafr.roche.com
 20.101.30.112:443,cmgworkplace.emea.roche.com
 23.97.234.74:443,dms.rok.roche.com
 52.136.226.155:443,mauticro.roche.com
+52.178.0.213:443,api.sb0-rochechat.roche.com
