@@ -1,8 +1,5 @@
 IP Address,Common Name
-3.210.28.184:443,*.search.atp.gene.com
-3.221.173.76:443,atp.gene.com|*.atp.gene.com
-52.200.236.99:443,access-solutions.atp.gene.com|*.access-solutions.atp.gene.com
-52.202.197.196:443,atp.gene.com|*.atp.gene.com34.70.164.237:443,gcast.gene.com|www.gcast.gene.com
+34.70.164.237:443,gcast.gene.com|www.gcast.gene.com
 34.82.32.213:443,apsuat.gene.com
 34.82.94.161:443,apstableauuat.gene.com
 34.82.214.36:443,apstableau.gene.com
@@ -13,8 +10,8 @@ IP Address,Common Name
 34.134.255.167:443,learn-qa.gene.com|www.learn-qa.gene.com
 34.136.56.138:443,learn-dev.gene.com|www.learn-dev.gene.com
 34.168.88.89:443,apstableau.gene.com
-34.168.205.204:443,apsweb.gene.com
 34.168.191.62:443,aps.gene.com
+34.168.205.204:443,apsweb.gene.com
 35.184.6.99:443,ecdportal-dev.gene.com|www.ecdportal-dev.gene.com
 35.192.17.111:443,ecdportal-uat.gene.com|www.ecdportal-uat.gene.com
 35.193.147.203:443,gcast-qa.gene.com|www.gcast-qa.gene.com
@@ -26,8 +23,8 @@ IP Address,Common Name
 35.224.108.107:443,gcast-dev.gene.com|www.gcast-dev.gene.com
 35.225.24.180:443,sitealliance.gene.com|www.sitealliance.gene.com
 35.227.208.13:443,www.datacatalog.gene.com|datacatalog.gene.com
-35.227.237.157:443,apstableauuat.gene.com
 35.227.219.74:443,cmg-preview.gene.com|www.cmg-preview.gene.com
+35.227.237.157:443,apstableauuat.gene.com
 35.232.107.162:443,sitealliance.gene.com|www.sitealliance.gene.com
 35.232.244.66:443,ecd.gene.com
 35.238.132.90:443,ecd.gene.com
